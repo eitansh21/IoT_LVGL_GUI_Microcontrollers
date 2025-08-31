@@ -1,4 +1,4 @@
-## XXXXX Project by :  
+## Project by: Eitan Shaked, Ofir Mirovsky, Ido Merenstein  
   
 ## Details about the project
  
@@ -11,11 +11,10 @@
 * Assets: link to 3D printed parts, Audio files used in this project, Fritzing file for connection diagram (FZZ format) etc
 
 ## ESP32 SDK version used in this project: 
+`2.0.17`
 
 ## Arduino/ESP32 libraries used in this project:
-* XXXX - version XXXXX
-* XXXX - version XXXXX
-* XXXX - version XXXXX
+TBD
 
 ## Connection diagram:
 
