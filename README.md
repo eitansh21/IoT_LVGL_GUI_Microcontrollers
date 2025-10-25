@@ -17,6 +17,7 @@
 TBD
 
 ## Connection diagram:
+![wiring](https://github.com/eitansh21/IoT_LVGL_GUI_Microcontrollers/blob/main/connection_diagram.png)
 
 ## Project Poster:
  
